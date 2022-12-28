@@ -57,3 +57,8 @@ main .formulary textarea {
     font-size: 15px;
     padding: 10px;
 }
+
+main .formulary .warning {
+    font-size: 15px;
+    font-weight: 400;
+}
