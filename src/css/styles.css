@@ -36,3 +36,13 @@ main .formulary {
     background-color: #ffffff;
 }
 
+main .formulary input {
+    width: 298px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid #000000;
+    padding-left: 10px;
+    font-weight: 700;
+    font-size: 15px;
+}
+
