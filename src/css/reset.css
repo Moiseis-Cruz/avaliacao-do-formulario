@@ -3,3 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.warning {
+    color: #F52E2E;
+    font-weight: 400;
+    font-size: 9px;
+}
