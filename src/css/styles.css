@@ -33,6 +33,7 @@ main .description {
 
 main .formulary {
     width: 340px;
+    height: 378px;
     background-color: #ffffff;
 }
 
@@ -44,7 +45,7 @@ main .formulary input {
     padding-left: 10px;
     font-weight: 700;
     font-size: 15px;
-    margin-top: 6px;
+    margin-top: 15px;
 }
 
 main .formulary textarea {
@@ -57,7 +58,7 @@ main .formulary textarea {
     font-weight: 700;
     font-size: 15px;
     padding: 10px;
-    margin-top: 6px;
+    margin-top: 15px;
 }
 
 main .formulary .warning {
@@ -74,4 +75,5 @@ main .formulary button {
     font-size: 15px;
     font-weight: 700;
     color: #ffffff;
+    margin-top: 20px;
 }
