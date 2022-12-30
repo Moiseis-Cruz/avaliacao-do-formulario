@@ -1,0 +1,1 @@
+let enivarMensagem = document.getElementById('btn-comentario')
